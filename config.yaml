@@ -1,0 +1,8 @@
+baseURL: http://smenaaliaga.netlify.app/
+languageCode: en-us
+title: My New Hugo Site
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
